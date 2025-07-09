@@ -86,24 +86,19 @@ Email: admin@gmail.com
 Password: superadmin
 
 
-👤 Role Akses:
-
+👤 Role Akses
     Admin
-
     -Mengelola data kategori produk
     -Mengelola data produk
     -Melihat dan mengelola pesanan
     -Mengelola data pelanggan
     -Mengakses seluruh halaman backend/admin
-
     Customer
-
     -Melihat daftar produk
     -Melakukan pemesanan
     -Melihat status pemesanan
+    -Hanya mengakses halaman customer/frontend
 
-Hanya mengakses halaman customer/frontend
 
-Admin: Mengelola produk, kategori, pesanan, dan pengguna
 
 
