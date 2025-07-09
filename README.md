@@ -79,14 +79,14 @@ MTV Carbon Pro/
 /admin untuk Admin.
 
 ```
-
-##👤 Akun Login
+## 👤 Akun Admin
 🔐 Admin
-Email: admin@gmail.com
-Password: superadmin
+Email: admin@carbonpro.com
+
+Password: password
+
 
 ## 👤 Role Akses
-
 Admin
 - Mengelola data kategori produk
 - Mengelola data produk
