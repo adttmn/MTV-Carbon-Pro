@@ -74,6 +74,15 @@ MTV Carbon Pro/
    php artisan serve
    ```
 
+
+
+⚙️ URL
+```
+/ untuk User.
+/admin untuk Admin.
+/simulator untuk simulasi kode.
+```
+
 👤 Role Akses
 Customer: Melihat produk, melakukan pemesanan
 
