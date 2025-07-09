@@ -73,17 +73,19 @@ MTV Carbon Pro/
    ```
    php artisan serve
    ```
-## 🌐 URL
-```
-/beranda untuk User.
-/admin untuk Admin.
 
-```
+   
+## 🌐 URL
+- /beranda untuk user
+- admin/ untuk admin
+
+
+
 ## 👤 Akun Admin
 🔐 Admin
 Email: admin@carbonpro.com
-
 Password: password
+
 
 
 ## 👤 Role Akses
