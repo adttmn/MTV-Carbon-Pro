@@ -88,25 +88,19 @@ Password: superadmin
 
 👤 Role Akses:
 
-Admin
+    Admin
 
-Mengelola data kategori produk
+    -Mengelola data kategori produk
+    -Mengelola data produk
+    -Melihat dan mengelola pesanan
+    -Mengelola data pelanggan
+    -Mengakses seluruh halaman backend/admin
 
-Mengelola data produk
+    Customer
 
-Melihat dan mengelola pesanan
-
-Mengelola data pelanggan
-
-Mengakses seluruh halaman backend/admin
-
-Customer
-
-Melihat daftar produk
-
-Melakukan pemesanan
-
-Melihat status pemesanan
+    -Melihat daftar produk
+    -Melakukan pemesanan
+    -Melihat status pemesanan
 
 Hanya mengakses halaman customer/frontend
 
