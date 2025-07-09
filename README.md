@@ -76,16 +76,16 @@ MTV Carbon Pro/
 
    
 ## 🌐 URL
-- ![/beranda] untuk user
-- ![admin/] untuk admin
+- `/beranda` untuk user
+- `admin/` untuk admin
 
 
 
 ## 👤 Akun Admin
 🔐 Admin
-Email: admin@gmail.com
+Email    : `admin@gmail.com`
 
-Password: admin
+Password : `admin`
 
 
 
