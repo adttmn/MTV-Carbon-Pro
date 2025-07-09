@@ -83,7 +83,7 @@ MTV Carbon Pro/
 ## 🌐 URL
 - `/beranda` untuk user
 - `admin/` untuk admin
-
+---
 
 
 ## 👤 Akun Admin
@@ -92,7 +92,8 @@ MTV Carbon Pro/
 Email    : `admin@gmail.com`
 
 Password : `admin`
-<u></u>
+
+---
 
 
 
@@ -109,7 +110,7 @@ Admin
 - Melakukan pemesanan
 - Melihat status pemesanan
 - Hanya mengakses halaman customer/frontend
-
+---
 
 
 
