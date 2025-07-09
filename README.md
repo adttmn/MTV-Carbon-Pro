@@ -1,6 +1,7 @@
-# MTV Carbon Pro
+## MTV Carbon Pro
 
 **MTV Carbon Pro** adalah aplikasi web berbasis Laravel yang dirancang untuk memudahkan manajemen produk, kategori, pemesanan, dan pengguna dalam sistem berbasis katalog produk. Proyek ini cocok untuk bisnis yang ingin memiliki sistem pemesanan dan pengelolaan produk secara online.
+
 ---
 
 ## 🚀 <u><strong>Fitur Utama</strong></u>
