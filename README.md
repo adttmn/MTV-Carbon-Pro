@@ -63,7 +63,7 @@ MTV Carbon Pro/
    php artisan key:generate
    ```
 4. Konfigurasi Database
-   Edit .env dan sesuaikan:
+   Edit `.env` dan sesuaikan:
    ```
    DB_DATABASE=nama_database
    DB_USERNAME=username
