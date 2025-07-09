@@ -76,8 +76,8 @@ MTV Carbon Pro/
 
    
 ## 🌐 URL
-- /beranda untuk user
-- admin/ untuk admin
+- [/beranda] untuk user
+- [admin/] untuk admin
 
 
 
