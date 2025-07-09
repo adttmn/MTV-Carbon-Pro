@@ -78,10 +78,16 @@ MTV Carbon Pro/
 
 ⚙️ URL
 ```
-/ untuk User.
+/beranda untuk User.
 /admin untuk Admin.
-/simulator untuk simulasi kode.
+
 ```
+
+👤 Akun Login
+🔐 Admin
+Email: admin@gmail.com
+Password: superadmin
+
 
 👤 Role Akses
 Customer: Melihat produk, melakukan pemesanan
