@@ -65,9 +65,10 @@ MTV Carbon Pro/
 4. Konfigurasi Database
    Edit `.env` dan sesuaikan:
    ```
-   DB_DATABASE=nama_database
-   DB_USERNAME=username
-   DB_PASSWORD=password
+   ![DB_DATABASE](https://img.shields.io/badge/DB_DATABASE-db_tokocarbon)
+    ![DB_USERNAME](https://img.shields.io/badge/DB_USERNAME-root-success)
+    ![DB_PASSWORD](https://img.shields.io/badge/DB_PASSWORD-root-red)
+
 
    ```
 5. Migrasi dan Seeder
