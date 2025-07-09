@@ -40,9 +40,43 @@ MTV Carbon Pro/
 │   └── web.php
 ├── .env.example
 ├── composer.json
+```
+⚙️ Instalasi
+1. Clone Repository
+   ```
+   git clone https://github.com/username/mtv-carbon-pro.git
+   cd mtv-carbon-pro
+   ```
+2. Install Depedency
+   ```
+   composer install
+   npm install && npm run dev
+   ```
+3. Salin File Environment
+   ```
+   cp .env.example .env
+   php artisan key:generate
+   ```
+4. Konfigurasi Database
+   Edit .env dan sesuaikan:
+   ```
+   DB_DATABASE=nama_database
+   DB_USERNAME=username
+   DB_PASSWORD=password
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+   ```
+5. Migrasi dan Seeder
+   ```
+   php artisan migrate --seed
+   ```
+6. Jalankan Server
+   ```
+   php artisan serve
+   ```
 
-## License
+👤 Role Akses
+Customer: Melihat produk, melakukan pemesanan
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Admin: Mengelola produk, kategori, pesanan, dan pengguna
+
+
