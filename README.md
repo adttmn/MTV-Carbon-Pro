@@ -83,8 +83,9 @@ MTV Carbon Pro/
 
 ## 👤 Akun Admin
 🔐 Admin
-Email: admin@carbonpro.com
-Password: password
+Email: admin@gmail.com
+
+Password: admin
 
 
 
